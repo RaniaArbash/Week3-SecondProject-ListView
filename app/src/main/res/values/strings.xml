@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Week3ListView</string>
+    <string name="addedMessage">College Inserted</string>
+    <string name="error">College exist</string>
+</resources>
