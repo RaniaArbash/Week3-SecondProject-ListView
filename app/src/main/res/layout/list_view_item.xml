@@ -6,6 +6,9 @@
     android:id="@+id/textview"
     android:textSize="20sp"
     android:layout_width="match_parent"
-    android:layout_height="30dp"/>
+    android:layout_height="30dp"
+    android:textColor="@color/Green"
+    />
+
 
 </RelativeLayout>

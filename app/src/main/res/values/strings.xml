@@ -2,4 +2,11 @@
     <string name="app_name">Week3ListView</string>
     <string name="addedMessage">College Inserted</string>
     <string name="error">College exist</string>
+    <string-array name="colleges">
+        <item>Seneca</item>
+        <item>Humber</item>
+        <item>Centennial</item>
+        <item>George Brown</item>
+
+    </string-array>
 </resources>
